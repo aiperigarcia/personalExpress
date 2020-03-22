@@ -2,7 +2,7 @@
 
 ## Goal:
 
-Create an app where users can post quotes from cartoon Frozen, see what Olaf would response to quotes and delete quote.
+Create an app where users can post quotes from cartoon Frozen, see what Olaf would response to quote and delete quote.
 
 ![olaf](public/read.png)
 
@@ -23,4 +23,4 @@ Create an app where users can post quotes from cartoon Frozen, see what Olaf wou
 
 ## Credit
 
-Modified from Scotch.io's auth tutorial
+Modified from Zell Liew CRUD tutorial
